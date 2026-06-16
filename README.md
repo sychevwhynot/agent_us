@@ -10,6 +10,7 @@
 
 ### Структура проекта
 
+```bash
 agent_test/
 ├── main/
 │   ├── __init__.py
@@ -26,3 +27,4 @@ agent_test/
 ├── test.py                    # Тестовый скрипт
 ├── requirements.txt           # Зависимости
 └── README.md
+```
