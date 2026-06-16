@@ -7,6 +7,7 @@
 5. Обновить pip - `python -m pip install --upgrade pip`
 6. Установить зависимости - `pip install -r requirements.txt`
 7. Запустить тесты - `python test.py`
+8. В корне проекта создать файл `.env` и добавить туда `API_KEY="Ключ API"`. Ключ создать [тут](https://openrouter.ai/workspaces/default/keys)
 
 ### Структура проекта
 
